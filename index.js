@@ -4,7 +4,7 @@ const app = express();
 require("dotenv").config()
 
 const corsOptions = {
-  origin: "http://127.0.0.1:3001", // Only allow requests from this origin
+  origin: "http://127.0.0.1:3000", // Only allow requests from this origin
 };
 
 app.use(cors(corsOptions));
