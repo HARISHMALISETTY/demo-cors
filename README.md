@@ -1,2 +1,0 @@
-# demo-cors
-cors policy
